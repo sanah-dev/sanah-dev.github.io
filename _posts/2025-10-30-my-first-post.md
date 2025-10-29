@@ -1,9 +1,10 @@
 ---
+layout: post
 title: 첫 포스팅 해보기
 description: >-
   블로그 오픈을 알리는 포스팅을 작성해 볼까
 author: sanah
-date: 2025-10-29 20:46:00 +09:00
+date: 2025-10-30 00:07:00 +09:00
 categories: [메인 카테고리, 서브 카테고리]
 tags:
   [태그1,태그2,태그3]
